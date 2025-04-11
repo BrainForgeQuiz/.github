@@ -18,6 +18,6 @@
 | ----------------------------- | ---------------------------------------------------------------------------------------- |
 | 📝 Documentation              | [Preisler](https://github.com/preisler25)                                               |
 | 🎨 Frontend                   | [Szaki](https://github.com/szaki-dev) & [Preisler](https://github.com/preisler25) |
-| 🧠 Backend                    | [Preisler](https://github.com/preisler25)                                   |
+| 🧠 Backend                    | [Preisler](https://github.com/preisler25) & [Szaki](https://github.com/szaki-dev)                                    |
 
 ---
