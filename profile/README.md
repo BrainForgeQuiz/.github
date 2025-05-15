@@ -6,7 +6,7 @@
 
 ### Tech Stack
 
-- **Frontend**: React with TypeScript
+- **Frontend**: Flutter
 - **Backend**: NestJS with TypeScript
 - **Database**: PostgreSQL with Drizzle ORM
 
